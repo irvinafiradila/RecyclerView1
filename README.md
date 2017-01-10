@@ -17,3 +17,6 @@ No.urut         : 14
 
 
 NIS             : 4727/1446.070
+
+
+Nama Sekolah    : SMK TELKOM MALANG
